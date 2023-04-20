@@ -2,10 +2,12 @@
 
 This repository contains answer files for tasks given on shell basics, navigation,looking around, manipulating files and working with commands.
 
-All files are made executable with the command:
+All files are made executable and run with the command:
 
 ```
 chmod u+x <filename>
+./<filename>
+
 ```
 
 [0-current_working_directory](0-current_working_directory) - A script that prints the absolute pathname of the current working directory.
