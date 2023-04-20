@@ -12,4 +12,14 @@ chmod u+x <filename>
 
 [1-listit](1-listit) - A script that displays the contents of your current directory.
 
-[2-bring_me_home](2-bring_me_home) - A script that changes the working directory to the user's home directory
+[2-bring_me_home](2-bring_me_home) - A script that changes the working directory to the user's home directory.
+
+[3-listfiles](3-listfiles) - A script that displays current directory contents in a long format.
+
+[4-listmorefiles](4-listmorefiles) - A script that lists current directory contents including hidden files(starting with '.'), using the long format.
+
+[5-listfilesdigitonly](5-listfilesdigitonly) - A script that prints current directory contents ina long format, with user and group IDs displayed numerically, and hidden files(starting with '.').
+
+[6-firstdirectory](6-firstdirectory)- A script that creates a directory named my_first_directory in the /tmp/ directory.
+
+[7-movethatfile](7-movethatfile) - A script that moves the file betty from /tmp/ to /tmp/my_first_directory.
