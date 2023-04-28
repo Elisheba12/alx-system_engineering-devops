@@ -1,6 +1,7 @@
 # 0x01-SHELL_PERMISSIONS
 
 All scripts are tested using Ubuntu 20.04 LTS
+
 All scripts are exactly two lines long.
 
 ```
